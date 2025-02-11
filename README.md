@@ -38,7 +38,6 @@ The owner can **call the driver** in case of emergencies.
 | **GSM Module** | Sends SMS alerts and allows calls | ![GSM Module](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/gsm_module.jpg) |
 | **Accelerometer** | Detects sudden impacts or accidents | ![Accelerometer](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/accelerometer.jpg) |
 | **Alcohol Sensor** | Detects alcohol presence in driver’s breath | ![MQ-3 Alcohol Sensor](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/alcohol_sensor.jpg) |
-| **Fuel Level Sensor** | Monitors the vehicle's fuel level | ![Fuel Level Sensor](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/fuel_sensor.jpg) |
 | **DHT11 Sensor** | Measures indoor temperature & humidity | ![DHT11 Sensor](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/dht11.jpg) |
 
 ---
