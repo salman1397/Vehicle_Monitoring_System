@@ -44,7 +44,8 @@ The owner can **call the driver** in case of emergencies.
 ---
 
 ---
-
+| Name | Image |
+|------|-------|
 | Web Dasboard | ![ESP32](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/dashboard_a.jpg) |
 | Web Dashboard 2 | ![ESP32](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/dashboard_b.jpg) |
 
