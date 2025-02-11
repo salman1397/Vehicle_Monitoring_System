@@ -33,7 +33,7 @@ The owner can **call the driver remotely** in case of emergencies.
 
 | Component | Description | Image |
 |-----------|------------|-------|
-| **ESP32** | Main controller for data processing & communication | ![ESP32](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/esp32.jpg) |
+| **ESP32** | Main controller for data processing & communication | ![ESP32](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/esp32.png) |
 | **GPS Module** | Tracks vehicle location and speed | ![GPS Module](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/gps_module.jpg) |
 | **GSM Module** | Sends SMS alerts and allows calls | ![GSM Module](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/gsm_module.jpg) |
 | **Accelerometer** | Detects sudden impacts or accidents | ![Accelerometer](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/accelerometer.jpg) |
