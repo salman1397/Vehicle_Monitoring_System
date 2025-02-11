@@ -25,7 +25,7 @@ Detects alcohol in the driver's breath and sends a **warning alert**.
 Sends notifications via **mobile app & SMS** for immediate action.
 
 ### 📞 Owner-Driver Communication  
-The owner can **call the driver remotely** in case of emergencies.
+The owner can **call the driver** in case of emergencies.
 
 ---
 
@@ -42,6 +42,18 @@ The owner can **call the driver remotely** in case of emergencies.
 | **DHT11 Sensor** | Measures indoor temperature & humidity | ![DHT11 Sensor](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/dht11.jpg) |
 
 ---
+
+---
+
+| Web Dasboard | ![ESP32](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/dashboard_a.jpg) |
+| Web Dashboard 2 | ![ESP32](https://raw.githubusercontent.com/salman1397/Vehicle_Monitoring_System/main/images/dashboard_b.jpg) |
+
+---
+
+
+
+
+
 
 ## 🔄 **How It Works**
 
