@@ -61,9 +61,7 @@ The owner can **call the driver** in case of emergencies.
 2. **ESP32 processes the data** and sends it to the server.
 3. **Data is displayed on a real-time dashboard** for monitoring.
 4. If any abnormal event occurs:
-   - **Overspeeding?** Owner receives an alert.  
-   - **Accident detected?** Emergency SMS is sent.  
-   - **Alcohol detected?** Warning alert is triggered.  
+   - **Overspeeding?** **Accident detected?** **Alcohol detected?** Owner receives an alert in app and sms with location and others data.
 5. **GSM module allows calling the driver** if needed.
 
 ---
@@ -76,17 +74,8 @@ The owner can **call the driver** in case of emergencies.
 
 ---
 
-## 🚀 **Setup Instructions**
-
-1. **Connect the components** as per the circuit diagram.
-2. **Flash the ESP32 with firmware** using Arduino IDE.
-3. **Set up the server** to store and visualize data.
-4. **Use the app to receive alerts and monitor data.**
-
-📌 *Detailed installation guide coming soon!*
-
----
-
 ## 🤝 **Contributions & Feedback**
 
 Feel free to contribute or report issues. Let’s improve **vehicle safety** together! 🚗💨
+
+---
